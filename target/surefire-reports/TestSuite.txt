@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 27.398 s <<< FAILURE! - in TestSuite
+testngMaven.AssetValidations.validations  Time elapsed: 0.431 s  <<< FAILURE!
+java.lang.AssertionError: expected [Featured COurce] but found [FEATURED COURSES]
+	at testngMaven.AssetValidations.validations(AssetValidations.java:28)
+

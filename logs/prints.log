@@ -1,0 +1,29 @@
+11:53:19.792 [main] INFO  resources.base - Login link is clicked
+11:53:20.245 [main] INFO  resources.base - Tried to login with credentials
+11:53:27.031 [main] INFO  resources.base - Login link is clicked
+11:53:27.476 [main] INFO  resources.base - Tried to login with credentials
+11:54:05.746 [main] INFO  resources.base - Login link is clicked
+11:54:06.204 [main] INFO  resources.base - Tried to login with credentials
+11:54:12.953 [main] INFO  resources.base - Login link is clicked
+11:54:13.402 [main] INFO  resources.base - Tried to login with credentials
+11:54:22.642 [main] INFO  resources.base - Validating if link is displayed
+12:40:55.573 [main] INFO  resources.base - Login link is clicked
+12:40:56.033 [main] INFO  resources.base - Tried to login with credentials
+12:41:03.740 [main] INFO  resources.base - Login link is clicked
+12:41:04.192 [main] INFO  resources.base - Tried to login with credentials
+12:41:14.655 [main] INFO  resources.base - Validating if link is displayed
+12:56:24.723 [main] INFO  resources.base - Login link is clicked
+12:56:25.217 [main] INFO  resources.base - Tried to login with credentials
+12:56:32.092 [main] INFO  resources.base - Login link is clicked
+12:56:32.555 [main] INFO  resources.base - Tried to login with credentials
+12:56:42.057 [main] INFO  resources.base - Validating if link is displayed
+21:26:44.916 [main] INFO  resources.base - Login link is clicked
+21:26:45.454 [main] INFO  resources.base - Tried to login with credentials
+21:26:53.196 [main] INFO  resources.base - Login link is clicked
+21:26:53.680 [main] INFO  resources.base - Tried to login with credentials
+21:27:04.089 [main] INFO  resources.base - Validating if link is displayed
+21:31:07.484 [main] INFO  resources.base - Login link is clicked
+21:31:08.016 [main] INFO  resources.base - Tried to login with credentials
+21:31:15.341 [main] INFO  resources.base - Login link is clicked
+21:31:15.836 [main] INFO  resources.base - Tried to login with credentials
+21:31:26.652 [main] INFO  resources.base - Validating if link is displayed
